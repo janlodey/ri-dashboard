@@ -1,0 +1,17 @@
+[
+	{
+		"slug": "name",
+		"label": "Full name",
+		"type": "text"
+	},
+	{
+		"slug": "date_of_birth",
+		"label": "Date of Birth",
+		"type": "date"
+	},
+	{
+		"slug": "gender",
+		"label": "Gender",
+		"type": "select"
+	}
+]
